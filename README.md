@@ -40,3 +40,18 @@ src/main/java/com/david/taskmanager/
 
 ## Purpose
 This project is part of a personal portfolio to strengthen programming fundamentals in Java and develop real, practical applications.
+
+
+## Technical Highlights
+
+- Fully object-oriented architecture:
+  - Task
+  - TaskManager
+  - FileHandler
+  - Main
+- Clean project structure following Maven conventions
+- Improved file storage using JSON libraries (Gson/Jackson)
+- Custom TypeAdapter for LocalDateTime
+- Pretty-printed JSON output
+- Safe user input with custom integer reader
+- Modular and extensible
